@@ -49,16 +49,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<!-- GitHub Stats & Top Languages Cards (Trendy & Professional) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Napon789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Napon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Napon789&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
