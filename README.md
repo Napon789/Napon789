@@ -27,8 +27,6 @@ I am passionate about solving complex logic, designing clean database schemas, a
 
 ---
 
-### 📈 GitHub Stats
-![Napon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Napon789&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 - **Portfolio:** [Visit my website](https://developerportfolio-tau.vercel.app/)
