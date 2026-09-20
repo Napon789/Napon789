@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Coding Animation" />
+  
   <h1>Hi there, I'm Napon Nakphet (Aof) 👋</h1>
   <h3>🚀 Aspiring Full-Stack & Backend Developer</h3>
   <p><em>"Passionate about solving complex logic, designing clean database schemas, and building secure APIs."</em></p>
@@ -47,9 +49,11 @@ I enjoy working across the stack to deliver smooth, robust, and scalable web app
 
 ### 📫 Let's Connect
 
-<a href="https://developerportfolio-tau.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Website-amber?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:aofmui11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aofmui11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<div align="center">
+  <a href="https://developerportfolio-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-amber?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:aofmui11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aofmui11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
